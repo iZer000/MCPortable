@@ -1,3 +1,7 @@
+<a href="https://discord.gg/unfBEn32QE">
+<img src="https://img.shields.io/badge/Discord-Gaudi%20Land-blue?style=flat-square&logo=discord&color=5865F2&logoColor=5865F2&labelColor=23272A">
+</a>
+
 # MCPortable
 Download for a Portable MC USB. _[Win only]_
 
@@ -11,9 +15,3 @@ Download for a Portable MC USB. _[Win only]_
 5) Start any version and let it download
 
 ***
-
-## TODO
-- [x] Create repo
-- [ ] Add support for Offline-Mode/Cracked versions
-- [ ] Add Linux and MacOS support
-  - [ ] One command download for Linux
