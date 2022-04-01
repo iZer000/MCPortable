@@ -4,7 +4,7 @@
 
 ## MCPortable
 Download for a Portable MC USB. _[Win only]_
-
+Requires [curl](https://curl.se/windows/). _(Preinstalled on Windows 10/11)_
 
 ## Install
 1) Download the Repo as ZIP
