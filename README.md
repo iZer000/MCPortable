@@ -13,6 +13,11 @@ Download for a Portable MC USB. _[Win only]_
 4) Wait...
 
 
+You can also use this command to install:
+ 
+ `md Minecraft ; cd Minecraft ; curl -o Minecraft.bat https://raw.githubusercontent.com/0c0d3/MCPortable/main/Minecraft/Minecraft.bat`
+
+
 ## Changelog
 - v1.1 Added automatic download.
 - v1.0 Initial version
