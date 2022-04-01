@@ -4,13 +4,15 @@
 
 ## MCPortable
 Download for a Portable MC USB. _[Win only]_
-Requires [curl](https://curl.se/windows/). _(Preinstalled on Windows 10/11)_
+
+Requires [curl](https://curl.se/windows/) _(Preinstalled on Windows 10/11)_
 
 ## Install
 1) Download the Repo as ZIP
 2) Extract "Minecraft" folder to your USB-Drive
 3) Execute `Minecraft.bat`
 4) Wait...
+
 
 
 You can also use this command to install:
@@ -22,7 +24,7 @@ You can also use this command to install:
 - v1.1 Added automatic download.
 - v1.0 Initial version
 
-
+![image](https://user-images.githubusercontent.com/77457719/161291797-ce5fe7a7-7eef-48cd-836e-0501a4c723f5.png)
 ***
 
 > Credits to [Cpt_Broombeard](https://www.planetminecraft.com/blog/make-your-minecraft-portable/)
