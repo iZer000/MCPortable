@@ -2,16 +2,22 @@
 <img src="https://img.shields.io/badge/Discord-Gaudi%20Land-blue?style=flat-square&logo=discord&color=5865F2&logoColor=5865F2&labelColor=23272A">
 </a>
 
-# MCPortable
+## MCPortable
 Download for a Portable MC USB. _[Win only]_
 
-> Credits to [Cpt_Broombeard](https://www.planetminecraft.com/blog/make-your-minecraft-portable/)
 
-# Install
+## Install
 1) Download the Repo as ZIP
 2) Extract "Minecraft" folder to your USB-Drive
-3) Execute `Minecraft.bat` - _(Ignore the warning if there is one)_
-4) Log into your Minecraft Account - _(You may have to relauch if there are any errors)_
-5) Start any version and let it download
+3) Execute `Minecraft.bat`
+4) Wait...
+
+
+## Changelog
+- v1.1 Added automatic download.
+- v1.0 Initial version
+
 
 ***
+
+> Credits to [Cpt_Broombeard](https://www.planetminecraft.com/blog/make-your-minecraft-portable/)
